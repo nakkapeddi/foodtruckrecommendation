@@ -28,6 +28,8 @@
           pkgs.elixir
           pkgs.erlang
           pkgs.nodejs
+          pkgs.openssl
+          pkgs.git
         ];
       };
     };
